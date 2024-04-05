@@ -1,5 +1,18 @@
 # Task-Manager
 Organize your tasks with task manager
+# Technologies Used
+Frontend:
+
+React.js
+
+Backend:
+
+Node.js
+
+Express.js
+
+MongoDB 
+
 # Installation of Dependencies
 run yarn install in root directory
 
