@@ -5,6 +5,10 @@ Frontend:
 
 React.js
 
+React Router
+
+Axios (for API requests)
+
 Backend:
 
 Node.js
@@ -12,6 +16,8 @@ Node.js
 Express.js
 
 MongoDB 
+
+JSON Web Tokens (JWT) for user authentication
 
 # Installation of Dependencies
 run yarn install in root directory
