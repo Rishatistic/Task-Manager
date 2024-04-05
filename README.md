@@ -1,7 +1,7 @@
 # Task-Manager
 Organize your tasks with task manager
 # Installation of Dependencies
-run install in root directory
+run yarn install in root directory
 
 run yarn install in database
 
